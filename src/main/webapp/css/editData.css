@@ -1,0 +1,22 @@
+.edit_table {
+    border-collapse: collapse;
+    border: 1px solid white;
+    text-align: center;
+    color: white;
+}
+
+.edit_box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+
+.edit_row {
+    justify-content: center;
+}
+
+.edit_element {
+    border: 1px solid white;
+}

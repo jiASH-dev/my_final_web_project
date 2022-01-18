@@ -1,0 +1,46 @@
+li {
+    list-style-type: none;
+    margin-right: 30px;
+    margin-bottom: 0rem;
+}
+
+li:last-child {
+    margin-right: 0;
+}
+
+ul {
+    display: flex;
+    justify-content: end;
+    align-items: baseline;
+    padding: 25px 0 35px 0;
+    margin-bottom: 0rem;
+    font-size: 20px;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.logged_as {
+    margin-bottom: 0rem;
+}
+
+.logOut {
+    width: 100px;
+    border-radius: 0;
+    background-color: #acacac;
+}
+
+.navbar_row {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.navbar_container-fluid {
+    margin-bottom: 140px;
+}
+
+.logOut_form {
+    margin-bottom: 0rem;
+}

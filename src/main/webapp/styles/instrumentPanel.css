@@ -1,0 +1,37 @@
+body {
+    background-image: url("../../images/background.jpg");
+    background-repeat: no-repeat;
+}
+
+.flex_instruments {
+    display: flex;
+    flex-direction: column;
+    width: 56px;
+    height: 90%;
+    padding: 310px 55px 0 10px;
+    background-color: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    top:89px;
+}
+
+.instrument_col {
+    margin-bottom: 60px;
+}
+
+.instrument_button {
+    width: 45px;
+    height: 45px;
+    border: 0;
+}
+
+.self {
+    background: transparent url("../../images/self_info_icon.png");
+}
+
+.add {
+    background: transparent url("../../images/add_icon.png");
+}
+
+.settings {
+    background: transparent url("../../images/settings_icon.png");
+}

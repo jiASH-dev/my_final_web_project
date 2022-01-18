@@ -1,0 +1,57 @@
+body {
+    background-image: url("../../images/background.jpg");
+    background-repeat: no-repeat;
+}
+
+.greeting_paragraph {
+    font-size: 30px;
+    color: white;
+}
+
+.greeting_text {
+    text-align: center;
+}
+
+.greeting_container {
+    margin-bottom: 140px;
+}
+
+.section_info {
+    font-size: 25px;
+    color: white;
+}
+
+.info_block {
+    text-align: center;
+}
+
+.section_button {
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    margin-top: 30px;
+}
+
+.sections_row {
+    justify-content: space-between;
+}
+
+.today {
+    background-image: url("../../images/today.png");
+}
+
+.tomorrow {
+    background-image: url("../../images/tomorrow.png");
+}
+
+.soon {
+    background-image: url("../../images/soon.png");
+}
+
+.past {
+    background-image: url("../../images/past.png");
+}
+
+.all {
+    background-image: url("../../images/all.png");
+}

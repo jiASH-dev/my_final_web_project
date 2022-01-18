@@ -1,0 +1,37 @@
+body {
+    background-image: url("../../images/background.jpg");
+}
+
+.table_row {
+    justify-content: center;
+}
+
+.development_type {
+    text-align: center;
+    color: white;
+}
+
+.developments_table {
+    margin-bottom: 40px;
+    text-align: center;
+    color: white;
+    border-collapse: collapse;
+}
+
+.table_element {
+    padding-right: 15px;
+    border: 1px solid;
+}
+
+.delete_row {
+    justify-content: center;
+}
+
+.delete_wrapper {
+    text-align: center;
+}
+
+.error_message {
+    color: red;
+    text-align: center;
+}

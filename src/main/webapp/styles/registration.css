@@ -1,0 +1,54 @@
+body {
+    background-image: url("../../images/background.jpg");
+}
+
+
+.input_container {
+    height: 100%;
+    padding-top: 300px;
+    color: white;
+}
+
+.input_form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input_row {
+    justify-content: center;
+    text-align: center;
+}
+
+.input_form_border {
+    border: 1px solid;
+}
+
+.form_input {
+    width: 40%;
+}
+
+.first_name {
+    margin-bottom: 20px;
+}
+
+.last_name {
+    margin-bottom: 20px;
+}
+
+.login {
+    margin-bottom: 20px;
+}
+
+.password {
+    margin-bottom: 20px;
+}
+
+.email {
+    margin-bottom: 40px;
+}
+
+.error_message {
+    color: red;
+    text-align: center;
+}
